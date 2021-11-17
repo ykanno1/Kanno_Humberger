@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AEEA,AAAA,CAAC,CAAA;EACG,KAAK,EAAE,GAAG;EACV,gBAAgB,EAAE,IAAI;CACzB;;AkBHD,AAAA,EAAE,CAAA;EACE,KAAK,EAAC,SAAS;EACf,gBAAgB,EAAC,MAAM;CAC1B",
+    "mappings": "",
     "sources": [
         "app.scss",
         "foundation/_reset.scss",
